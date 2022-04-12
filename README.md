@@ -1,6 +1,6 @@
 # vue-admin
 
-[项目预览](http://http://120.76.172.12/vue-admin/)
+[项目预览](http://120.76.172.12/vue-admin/)
 
 ## Project setup
 ```
